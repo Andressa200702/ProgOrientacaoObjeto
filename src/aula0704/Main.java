@@ -1,4 +1,4 @@
-//Aula de POO
+package aula0704;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Main {
             System.out.println("Reprovado com " + a.getMedia());
         }
 
-        //Pessoa dessa = new Pessoa("Andressa", 19, 1.70);
+        //Pessoa dessa = new aula0704.Pessoa("Andressa", 19, 1.70);
         //System.out.printf("A %s tem %d anos", dessa.nome, dessa.idade);
     }
 }

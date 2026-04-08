@@ -1,4 +1,4 @@
-//Aula de POO
+package aula0704;
 public class Pessoa {
 
     private double altura;

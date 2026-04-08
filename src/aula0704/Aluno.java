@@ -1,4 +1,4 @@
-//Aula POO
+package aula0704;
 public class Aluno {
     private String nome;
     private double nota1, nota2, media;
